@@ -1,24 +1,24 @@
 [submodule "test/packages/EABase"]
 	path = test/packages/EABase
 	url = git@github.com:pthiben/EABase.git
-    branch = master
+	branch = master
 [submodule "test/packages/EAAssert"]
 	path = test/packages/EAAssert
 	url = git@github.com:pthiben/EAAssert.git
-    branch = master
+	branch = master
 [submodule "test/packages/EAMain"]
 	path = test/packages/EAMain
 	url = git@github.com:pthiben/EAMain.git
-    branch = master
+	branch = master
 [submodule "test/packages/EAStdC"]
 	path = test/packages/EAStdC
 	url = git@github.com:pthiben/EAStdC.git
-    branch = master
+	branch = master
 [submodule "test/packages/EATest"]
 	path = test/packages/EATest
 	url = git@github.com:pthiben/EATest.git
-    branch = master
+	branch = master
 [submodule "test/packages/EAThread"]
 	path = test/packages/EAThread
 	url = git@github.com:pthiben/EAThread.git
-    branch = master
+	branch = master
